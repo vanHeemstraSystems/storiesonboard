@@ -4,7 +4,7 @@ com.storiesonboard
 
 > ...
 
-Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
+استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
 
 ## 100- مقدمة
 
