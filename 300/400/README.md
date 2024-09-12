@@ -14,6 +14,8 @@ Brainstorm with your team to collect the most possible solutions and put all use
 
 ## 100 - Write short card titles
 
+See [README.md](./100/README.md)
+
 After mapping the user journey, itʼs time to collect your solutions or user stories. To keep the good overview of the board, try to write expressive card titles. A smart title helps you to recover the story quickly and easily. Avoid abbreviations as they arenʼt always clear to everyone. Write or attach every other piece of information to the back side of the card.
 
 Online story mapping gives you the ability to attach unlimited details to a user story, without complicating things. StoriesOnBoard limits the visible length of card titles, to keep them short and sweet.
