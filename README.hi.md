@@ -1,4 +1,4 @@
-भंडार-नाम
+repository-name
 
 # भंडार का नाम
 
@@ -8,7 +8,7 @@
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
@@ -16,6 +16,6 @@
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
