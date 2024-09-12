@@ -4,6 +4,6 @@ Although user story mapping is an easy-to-learn method maybe not every team memb
 
 ![Screenshot 2024-09-12 at 13 14 31](https://github.com/user-attachments/assets/9a7ae77e-37a2-406b-970c-49143362bd2d)
 
-See also [Wake Up In The Morning](https://miro.com/miroverse/wake-up-in-the-morning/). Miro board and video.
+See also [Wake Up In The Morning](https://miro.com/miroverse/wake-up-in-the-morning/). Miro board and [video](https://www.youtube.com/watch?v=iMQgMQFD5EE).
 
 So theyʼll be familiar with the method, and all of them can add valuable thoughts.
