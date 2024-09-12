@@ -26,4 +26,8 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
+## 600 - Be specific about your User(s)
+
+See [README.md](./600/README.md)
+
 MORE
