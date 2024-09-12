@@ -4,7 +4,7 @@
 
 > ...
 
-Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
+基於“StoriesOnBoard”<https://www.storiesonboard.com/>
 
 基於此存儲庫中包含的“故事映射手冊”
 
@@ -22,4 +22,4 @@ Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 ## 400 - 結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
