@@ -4,9 +4,9 @@ com.storiesonboard
 
 > ...
 
-استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
-استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
+Based on "Story Mapping Playbook" as contained in this repository
 
 ## 100- مقدمة
 
