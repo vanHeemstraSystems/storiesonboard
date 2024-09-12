@@ -18,7 +18,7 @@ Based on "Story Mapping Playbook" as contained in this repository
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 结论
 
