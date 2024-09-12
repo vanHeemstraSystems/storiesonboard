@@ -4,15 +4,15 @@
 
 > ...
 
-"स्टोरीज़ऑनबोर्ड" पर आधारित<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 इस भंडार में निहित "स्टोरी मैपिंग प्लेबुक" पर आधारित
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
@@ -22,4 +22,4 @@
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
