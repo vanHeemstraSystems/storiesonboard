@@ -1,6 +1,6 @@
 船上故事
 
-# StoriesOnBoard
+# 船上故事
 
 > ...
 
@@ -12,7 +12,7 @@
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
