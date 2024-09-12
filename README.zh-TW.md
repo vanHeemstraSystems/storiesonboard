@@ -4,7 +4,7 @@
 
 > ...
 
-Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
+基於“StoriesOnBoard”<https://www.storiesonboard.com/>
 
 ## 100 - 簡介
 
@@ -20,4 +20,4 @@ Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
