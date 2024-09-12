@@ -1,8 +1,10 @@
-存储库名称
+船上故事
 
-# 存储库名称
+# StoriesOnBoard
 
-基于“ABC”<https://www.abc.com/>
+> ...
+
+基于“StoriesOnBoard”<https://www.storiesonboard.com/>
 
 ## 100 - 简介
 
@@ -18,4 +20,4 @@
 
 ## 400 - 结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
