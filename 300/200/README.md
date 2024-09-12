@@ -34,4 +34,8 @@ See [README.md](./600/README.md)
 
 See [README.md](./700/README.md)
 
+## 800 - Design for a product, not for a project
+
+See [README.md](./800/README.md)
+
 MORE
