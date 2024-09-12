@@ -6,7 +6,7 @@ histoires à bord
 
 Basé sur "StoriesOnBoard" sur<https://www.storiesonboard.com/>
 
-Basé sur le « Story Mapping Playbook » tel que contenu dans ce référentiel
+Based on "Story Mapping Playbook" as contained in this repository
 
 ## 100 - Introduction
 
