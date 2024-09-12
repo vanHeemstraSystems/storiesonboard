@@ -1,10 +1,10 @@
-船上故事
+storiesonboard
 
-# StoriesOnBoard
+# 船上故事
 
 > ...
 
-Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
+基于“StoriesOnBoard”<https://www.storiesonboard.com/>
 
 基于此存储库中包含的“故事映射手册”
 
@@ -20,6 +20,6 @@ Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 结论
 
 看[README.md](./400/README.md)
