@@ -1,4 +1,4 @@
-# 500 - Come up with solutions
+# 400 - Come up with solutions
 
 > Brainstorm with your team
 
