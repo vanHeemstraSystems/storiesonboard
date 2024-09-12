@@ -8,13 +8,13 @@ com.storiesonboard
 
 استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
-## 100 - Introduction
+## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
-يرى[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – بناء تطبيقنا
 
