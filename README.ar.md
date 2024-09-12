@@ -6,11 +6,11 @@ com.storiesonboard
 
 استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
 
-Based on "Story Mapping Playbook" as contained in this repository
+استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
-## 100- مقدمة
+## 100 - Introduction
 
-يرى[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
