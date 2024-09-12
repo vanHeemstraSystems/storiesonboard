@@ -21,5 +21,3 @@ See [README.md](./400/README.md)
 ## 500 - Think of the tool your user needs
 
 See [README.md](./500/README.md)
-
-MORE
