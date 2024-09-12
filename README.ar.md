@@ -8,7 +8,7 @@ com.storiesonboard
 
 استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
