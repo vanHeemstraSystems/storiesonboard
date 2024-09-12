@@ -1,10 +1,12 @@
 船上故事
 
-# 船上故事
+# StoriesOnBoard
 
 > ...
 
 基於“StoriesOnBoard”<https://www.storiesonboard.com/>
+
+基於此存儲庫中包含的“故事映射手冊”
 
 ## 100 - 簡介
 
