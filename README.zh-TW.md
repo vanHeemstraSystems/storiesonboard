@@ -8,11 +8,11 @@
 
 基於此存儲庫中包含的“故事映射手冊”
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
