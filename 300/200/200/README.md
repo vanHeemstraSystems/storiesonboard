@@ -19,3 +19,5 @@ See also [5 awesome brainstorming techniques to boost planning](https://storieso
 ## Public Story Map
 
 See [Silent brainstorming example](https://storymappingebook.storiesonboard.com/m2/brainstorming).
+
+![Screenshot 2024-09-12 at 13 04 53](https://github.com/user-attachments/assets/8fc6cc21-a490-44ef-95ff-0179a32d07c7)
