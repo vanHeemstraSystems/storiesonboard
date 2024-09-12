@@ -4,7 +4,7 @@
 
 > ...
 
-基於“StoriesOnBoard”<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 ## 100 - 簡介
 
