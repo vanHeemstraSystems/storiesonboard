@@ -1,6 +1,6 @@
 船上故事
 
-# StoriesOnBoard
+# 船上故事
 
 > ...
 
