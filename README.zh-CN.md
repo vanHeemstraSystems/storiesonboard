@@ -6,11 +6,11 @@
 
 基于“StoriesOnBoard”<https://www.storiesonboard.com/>
 
-基于此存储库中包含的“故事映射手册”
+Based on "Story Mapping Playbook" as contained in this repository
 
-## 100 - 简介
+## 100 - Introduction
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
