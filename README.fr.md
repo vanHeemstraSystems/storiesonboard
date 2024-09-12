@@ -1,8 +1,10 @@
-nom du référentiel
+histoires à bord
 
-# Nom du référentiel
+# Histoiresà bord
 
-Basé sur "ABC" à<https://www.abc.com/>
+> ...
+
+Basé sur "StoriesOnBoard" sur<https://www.storiesonboard.com/>
 
 ## 100 - Introduction
 
@@ -12,7 +14,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
