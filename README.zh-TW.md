@@ -1,10 +1,10 @@
-storiesonboard
+船上故事
 
 # 船上故事
 
 > ...
 
-Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
+基於“StoriesOnBoard”<https://www.storiesonboard.com/>
 
 基於此存儲庫中包含的“故事映射手冊”
 
@@ -16,7 +16,7 @@ Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
