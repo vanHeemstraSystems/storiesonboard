@@ -1,8 +1,10 @@
-اسم المستودع
+com.storiesonboard
 
-# اسم المستودع
+# StoriesOnBoard
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+> ...
+
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 ## 100- مقدمة
 
