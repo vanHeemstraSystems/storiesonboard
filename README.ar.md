@@ -4,7 +4,7 @@ com.storiesonboard
 
 > ...
 
-استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
