@@ -1,6 +1,6 @@
 船上故事
 
-# StoriesOnBoard
+# 船上故事
 
 > ...
 
@@ -18,6 +18,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 结论
+## 400 - Conclusion
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
