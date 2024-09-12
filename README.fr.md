@@ -1,6 +1,6 @@
 histoires à bord
 
-# Histoiresà bord
+# StoriesOnBoard
 
 > ...
 
