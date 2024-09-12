@@ -14,7 +14,7 @@ See [README.md](./200/README.md)
 
 See [README.md](./300/README.md)
 
-## 400 - Don't cinsider UX to be an afterthought
+## 400 - Don't consider UX to be an afterthought
 
 See [README.md](./400/README.md)
 
