@@ -1,10 +1,12 @@
-storiesonboard
+com.storiesonboard
 
 # StoriesOnBoard
 
 > ...
 
 استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
+
+استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
 ## 100- مقدمة
 
