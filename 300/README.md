@@ -23,3 +23,7 @@ See [README.md](./500/README.md)
 ## 600 - Slice Out the Release Structure
 
 See [README.md](./600/README.md)
+
+## 700 - User Story Examples
+
+See [README.md](./700/README.md)
