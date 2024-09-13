@@ -4,7 +4,7 @@
 
 > ...
 
-"स्टोरीज़ऑनबोर्ड" पर आधारित<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 इस भंडार में निहित "स्टोरी मैपिंग प्लेबुक" पर आधारित
 
@@ -18,7 +18,7 @@
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
-देखना[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
