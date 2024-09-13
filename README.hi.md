@@ -1,6 +1,6 @@
-स्टोरीऑनबोर्ड
+storiesonboard
 
-# स्टोरीज़ऑनबोर्ड
+# StoriesOnBoard
 
 > ...
 
@@ -14,7 +14,7 @@
 
 ## 200 - आवश्यकताएँ
 
-देखना[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
