@@ -1,3 +1,5 @@
+[![Translate README](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml/badge.svg)](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml)
+
 स्टोरीऑनबोर्ड
 
 # स्टोरीज़ऑनबोर्ड
@@ -16,7 +18,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे एप्लिकेशन का निर्माण
 
 देखना[README.md](./300/README.md)
 
