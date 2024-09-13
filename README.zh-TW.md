@@ -4,9 +4,9 @@
 
 > ...
 
-基於“StoriesOnBoard”<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
-Based on "Story Mapping Playbook" as contained in this repository
+基於此存儲庫中包含的“故事映射手冊”
 
 ## 100 - 簡介
 
