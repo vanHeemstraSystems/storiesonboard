@@ -6,9 +6,9 @@
 
 > ...
 
-基于“StoriesOnBoard”<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
-基于此存储库中包含的“故事映射手册”
+Based on "Story Mapping Playbook" as contained in this repository
 
 ## 100 - 简介
 
@@ -24,4 +24,4 @@
 
 ## 400 - 结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
