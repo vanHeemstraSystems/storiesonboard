@@ -1,4 +1,4 @@
-storiesonboard
+histoires à bord
 
 # Histoiresà bord
 
@@ -8,7 +8,7 @@ Basé sur "StoriesOnBoard" sur<https://www.storiesonboard.com/>
 
 Basé sur le « Story Mapping Playbook » tel que contenu dans ce référentiel
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
