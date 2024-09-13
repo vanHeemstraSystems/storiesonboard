@@ -32,67 +32,63 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
-## 600 - A pictures tells 1000 words
+## 600 - Ambiguity is the enemy
 
 See [README.md](./600/README.md)
 
-## 700 - Ambiguity is the enemy
+## 700 - Be conscious of the story's altitude
 
 See [README.md](./700/README.md)
 
-## 800 - Be conscious of the story's altitude
+## 800 - Evolve your information
 
 See [README.md](./800/README.md)
 
-## 900 - Evolve your information
+## 900 - Individual stories are part of a bigger book
 
 See [README.md](./900/README.md)
 
-## 1000 - Individual stories are part of a bigger book
+## 1000 - Tag your user journeys
 
 See [README.md](./1000/README.md)
 
-## 1100 - Tag your user journeys
+## 1100 - Test the story map
 
 See [README.md](./1100/README.md)
 
-## 1200 - Test the story map
+## 1200 - Involve your tester
 
 See [README.md](./1200/README.md)
 
-## 1300 - Involve your tester
+## 1300 - Look for the unhappy path
 
 See [README.md](./1300/README.md)
 
-## 1400 - Look for the unhappy path
+## 1400 - Slice user stories
 
 See [README.md](./1400/README.md)
 
-## 1500 - Slice user stories
+## 1500 - Choose a slicing strategy
 
 See [README.md](./1500/README.md)
 
-## 1600 - Choose a slicing strategy
+## 1600 - Don't scrimp on the scenario detail
 
 See [README.md](./1600/README.md)
 
-## 1700 - Don't scrimp on the scenario detail
+## 1700 - Make your stories fallible
 
 See [README.md](./1700/README.md)
 
-## 1800 - Make your stories fallible
+## 1800 - Group and theme your stories
 
 See [README.md](./1800/README.md)
 
-## 1900 - Group and theme your stories
+## 1900 - Be aware of accessibility
 
 See [README.md](./1900/README.md)
 
-## 2000 - Be aware of accessibility
-
-See [README.md](./2000/README.md)
-
-## 2100 - Mark user stories
+## 2000 - Mark user stories
 
 See [README.md](./2000/README.md)
 
