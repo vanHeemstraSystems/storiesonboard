@@ -6,7 +6,7 @@
 
 基於“StoriesOnBoard”<https://www.storiesonboard.com/>
 
-基於此存儲庫中包含的“故事映射手冊”
+Based on "Story Mapping Playbook" as contained in this repository
 
 ## 100 - 簡介
 
