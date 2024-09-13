@@ -4,7 +4,7 @@ com.storiesonboard
 
 > ...
 
-Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
+استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
 
 استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
@@ -12,7 +12,7 @@ Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 يرى[README.md](./100/README.md)
 
-## 200 - المتطلبات
+## 200 - Requirements
 
 يرى[README.md](./200/README.md)
 
@@ -22,4 +22,4 @@ Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 ## 400 - الخاتمة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
