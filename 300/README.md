@@ -27,3 +27,7 @@ See [README.md](./600/README.md)
 ## 700 - User Story Examples
 
 See [README.md](./700/README.md)
+
+## 800 - Generative User Stories with Artificial Intelligence (AI)
+
+See [README.md](./800/README.md)
