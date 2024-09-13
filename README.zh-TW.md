@@ -1,6 +1,6 @@
 [![Translate README](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml/badge.svg)](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml)
 
-storiesonboard
+船上故事
 
 # 船上故事
 
@@ -10,7 +10,7 @@ storiesonboard
 
 基於此存儲庫中包含的“故事映射手冊”
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
@@ -18,7 +18,7 @@ storiesonboard
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 建立我們的應用程式
 
 看[README.md](./300/README.md)
 
