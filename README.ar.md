@@ -4,7 +4,7 @@ com.storiesonboard
 
 > ...
 
-استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
@@ -22,4 +22,4 @@ com.storiesonboard
 
 ## 400 - الخاتمة
 
-يرى[README.md](./400/README.md)
+See [README.md](./400/README.md)
