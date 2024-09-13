@@ -10,7 +10,7 @@ If you struggle with slicing user stories, try the following strategies:
 
 - **Split by data** - test the user story to find necessary data only. For example, a registration form can ask for multiple details like email address, username, password, country of residence, phone number, etc... But the core function of registration can work just with the email address and password fields.
 
-== IMAGE GOES HERE ==
+![image](https://github.com/user-attachments/assets/b9ab2f96-2d4c-47fa-9ad0-62b935ccebd5)
 
 - **Split by acceptance criteria** - keep out the edge cases and concentrate on the most common usage. e.g. Type A users are the ones that pay with their bank card, the most common journey. Prioritize the Type A journey and avoid edge cases that might want to pay using an alternative, lesser known method like loyalty points and trigger validation messages or redirects. After breaking a user story into two or more parts, some stories hold their positions and some might move to further releases.
  
