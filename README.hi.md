@@ -6,9 +6,9 @@
 
 "स्टोरीज़ऑनबोर्ड" पर आधारित<https://www.storiesonboard.com/>
 
-इस भंडार में निहित "स्टोरी मैपिंग प्लेबुक" पर आधारित
+Based on "Story Mapping Playbook" as contained in this repository
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
