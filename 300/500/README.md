@@ -6,8 +6,6 @@ After collecting the user stories you should arrange them into a priority order.
 
 ## 100 - Use MoSCoW categories
 
-== WE ARE HERE ==
-
 See [README.md](./100/README.md)
 
 ## 200 - It's a must you drop MoSCoW
