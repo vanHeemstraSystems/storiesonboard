@@ -1,4 +1,4 @@
-storiesonboard
+船上故事
 
 # 船上故事
 
@@ -6,13 +6,13 @@ storiesonboard
 
 基於“StoriesOnBoard”<https://www.storiesonboard.com/>
 
-Based on "Story Mapping Playbook" as contained in this repository
+基於此存儲庫中包含的“故事映射手冊”
 
-## 100 - 簡介
+## 100 - Introduction
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
