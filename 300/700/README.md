@@ -1,5 +1,5 @@
 # 700 - User Story Examples
 
-> 100+ user stories for th most common cases
+> 100+ user stories for the most common cases
 
 MORE
