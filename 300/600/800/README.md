@@ -2,7 +2,7 @@
 
 Anyone who read a user story youʼve created should understand its aim and how it helps deliver the feature itʼs related too. But they should also see how it progresses, what the logical iteration is. Good stories are like a lego brick. Theyʼre independent but theyʼre also more useful as part of a group. Alone they form something okay, but when combined, they form something awesome!
 
-You can build this into your user stories by clearly calling out the individual part of a chain theyʼre doing. For example, a user with items in my basket, I need to pay for them ```[using my debit card]```, so that I can purchase my products.
+You can build this into your user stories by clearly calling out the individual part of a chain theyʼre doing. For example, *as a user with items in my basket, I need to pay for them ```[using my debit card]```, so that I can purchase my products*.
 
 Itʼs simple, distinct, itʼs useful. 
 
