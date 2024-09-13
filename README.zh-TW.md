@@ -1,8 +1,8 @@
 [![Translate README](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml/badge.svg)](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml)
 
-storiesonboard
+船上故事
 
-# StoriesOnBoard
+# 船上故事
 
 > ...
 
@@ -22,6 +22,6 @@ storiesonboard
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 結論
 
 看[README.md](./400/README.md)
