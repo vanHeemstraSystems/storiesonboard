@@ -1,6 +1,6 @@
 [![Translate README](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml/badge.svg)](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml)
 
-storiesonboard
+com.storiesonboard
 
 # StoriesOnBoard
 
@@ -8,7 +8,7 @@ storiesonboard
 
 استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
 
-Based on "Story Mapping Playbook" as contained in this repository
+استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
 ## 100- مقدمة
 
@@ -22,6 +22,6 @@ Based on "Story Mapping Playbook" as contained in this repository
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
