@@ -4,7 +4,7 @@
 
 > ...
 
-Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
+基于“StoriesOnBoard”<https://www.storiesonboard.com/>
 
 基于此存储库中包含的“故事映射手册”
 
@@ -16,10 +16,10 @@ Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 构建我们的应用程序
 
 看[README.md](./300/README.md)
 
 ## 400 - 结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
