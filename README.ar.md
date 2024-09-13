@@ -10,7 +10,7 @@ com.storiesonboard
 
 ## 100- مقدمة
 
-يرى[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
@@ -20,6 +20,6 @@ com.storiesonboard
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - Conclusion
 
 يرى[README.md](./400/README.md)
