@@ -4,7 +4,7 @@
 
 > ...
 
-"स्टोरीज़ऑनबोर्ड" पर आधारित<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 इस भंडार में निहित "स्टोरी मैपिंग प्लेबुक" पर आधारित
 
