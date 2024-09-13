@@ -2,7 +2,7 @@
 
 histoires à bord
 
-# Histoiresà bord
+# StoriesOnBoard
 
 > ...
 
@@ -10,9 +10,9 @@ Basé sur "StoriesOnBoard" sur<https://www.storiesonboard.com/>
 
 Basé sur le « Story Mapping Playbook » tel que contenu dans ce référentiel
 
-## 100 - Présentation
+## 100 - Introduction
 
-Voir[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Exigences
 
