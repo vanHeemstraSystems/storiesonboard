@@ -2,23 +2,23 @@
 
 histoires à bord
 
-# Histoiresà bord
+# StoriesOnBoard
 
 > ...
 
-Basé sur "StoriesOnBoard" sur<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
-Basé sur le « Story Mapping Playbook » tel que contenu dans ce référentiel
+Based on "Story Mapping Playbook" as contained in this repository
 
-## 100 - Présentation
+## 100 - Introduction
 
-Voir[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Building Our Application
 
 Voir[README.md](./300/README.md)
 
