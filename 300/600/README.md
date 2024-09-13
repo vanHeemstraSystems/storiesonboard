@@ -10,8 +10,6 @@ See [README.md](./100/README.md)
 
 ## 200 - You've considered MVP, now think Minimal Shippable Product
 
-== WE ARE HERE ==
-
 See [README.md](./200/README.md)
 
 ## 300 - Call out the logical release points
