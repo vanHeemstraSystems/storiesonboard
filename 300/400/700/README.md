@@ -4,6 +4,6 @@ As you go through the story mapping process youʼll realise how large the soluti
 
 What level of detail do you go into? Are you vaguely describing the way a customer uses the product? Maybe youʼve stacks of user stories describing the Non-Functional Requirements (NFRs) involved in changing screens given certain traffic loads.
 
-A story map with lots of gaps isnʼt going to take you anywhere fast. A map plotting every streetlamp and curb wonʼt help much either. We recommend that level of detail should sufficient, but not be over the top.
+A story map with lots of gaps isnʼt going to take you anywhere fast. A map plotting every streetlamp and curb wonʼt help much either. We recommend that level of detail should be sufficient, but not be over the top.
 
 Crucially though, to keep your estimates and assumptions realistic, you need to be aware of the level youʼre working at.
