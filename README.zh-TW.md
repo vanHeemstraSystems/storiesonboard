@@ -2,7 +2,7 @@
 
 船上故事
 
-# 船上故事
+# StoriesOnBoard
 
 > ...
 
@@ -20,7 +20,7 @@
 
 ## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 
