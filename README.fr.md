@@ -10,7 +10,7 @@ Basé sur le « Story Mapping Playbook » tel que contenu dans ce référentiel
 
 ## 100 - Introduction
 
-Voir[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Exigences
 
