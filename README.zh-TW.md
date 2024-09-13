@@ -1,4 +1,4 @@
-storiesonboard
+船上故事
 
 # 船上故事
 
