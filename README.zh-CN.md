@@ -1,3 +1,5 @@
+[![Translate README](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml/badge.svg)](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml)
+
 船上故事
 
 # 船上故事
@@ -6,11 +8,11 @@
 
 基于“StoriesOnBoard”<https://www.storiesonboard.com/>
 
-Based on "Story Mapping Playbook" as contained in this repository
+基于此存储库中包含的“故事映射手册”
 
 ## 100 - 简介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
@@ -22,4 +24,4 @@ See [README.md](./100/README.md)
 
 ## 400 - 结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
