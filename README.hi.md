@@ -1,6 +1,6 @@
-स्टोरीऑनबोर्ड
+storiesonboard
 
-# स्टोरीज़ऑनबोर्ड
+# StoriesOnBoard
 
 > ...
 
