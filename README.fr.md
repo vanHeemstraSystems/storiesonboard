@@ -1,6 +1,6 @@
 [![Translate README](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml/badge.svg)](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml)
 
-histoires à bord
+storiesonboard
 
 # Histoiresà bord
 
