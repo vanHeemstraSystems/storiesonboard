@@ -6,5 +6,5 @@ You know what they say about assumptions, so donʼt let that happen, instead wor
 whatʼs meant by ʻclicking the pay buttonʼ but it wonʼt be if it prevents the re-work that would have been required because customers begin complaining that they havenʼt received their confirmation emails,
 all because someone ʻassumedʼ that no form validation was required because it wasnʼt specified in the user story.
 
-These items seem like minor details to us involved in the trying to map out the entire journey, but to a develop who has to pick that item up from nothing, theyʼre very important minor details. Ambiguity is always
+These items seem like minor details to us involved in the trying to map out the entire journey, but to a developer who has to pick that item up from nothing, theyʼre very important minor details. Ambiguity is always
 the enemy.
