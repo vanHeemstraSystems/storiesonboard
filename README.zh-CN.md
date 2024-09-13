@@ -6,7 +6,7 @@
 
 > ...
 
-基于“StoriesOnBoard”<https://www.storiesonboard.com/>
+Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
 
 基于此存储库中包含的“故事映射手册”
 
@@ -16,9 +16,9 @@
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
-## 300 - 构建我们的应用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
