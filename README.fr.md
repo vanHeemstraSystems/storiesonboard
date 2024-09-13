@@ -4,7 +4,7 @@ histoires à bord
 
 > ...
 
-Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
+Basé sur "StoriesOnBoard" sur<https://www.storiesonboard.com/>
 
 Basé sur le « Story Mapping Playbook » tel que contenu dans ce référentiel
 
