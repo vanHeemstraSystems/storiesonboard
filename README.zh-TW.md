@@ -14,7 +14,7 @@
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - Building Our Application
 
@@ -22,4 +22,4 @@ See [README.md](./200/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
