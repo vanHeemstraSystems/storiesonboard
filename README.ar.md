@@ -6,7 +6,7 @@ com.storiesonboard
 
 استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
 
-Based on "Story Mapping Playbook" as contained in this repository
+استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
 ## 100- مقدمة
 
@@ -16,7 +16,7 @@ Based on "Story Mapping Playbook" as contained in this repository
 
 يرى[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
