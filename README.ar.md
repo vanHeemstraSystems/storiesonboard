@@ -4,11 +4,11 @@ com.storiesonboard
 
 > ...
 
-Based on "StoriesOnBoard" at <https://www.storiesonboard.com/>
+استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
 
 استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
