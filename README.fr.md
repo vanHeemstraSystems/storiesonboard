@@ -10,9 +10,9 @@ Basé sur "StoriesOnBoard" sur<https://www.storiesonboard.com/>
 
 Basé sur le « Story Mapping Playbook » tel que contenu dans ce référentiel
 
-## 100 - Introduction
+## 100 - Présentation
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
