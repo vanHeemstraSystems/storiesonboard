@@ -10,9 +10,9 @@
 
 基于此存储库中包含的“故事映射手册”
 
-## 100 - 简介
+## 100 - Introduction
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
