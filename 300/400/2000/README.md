@@ -7,7 +7,7 @@ Here are a few examples of what you might use a tag for in development:
 - **Possible barriers** - a barrier could be for example, if your development source is offshore and there are delays beyond your control.
 - **Priority work** - i.e. a particular user story is a priority, but development work is on hold as there is an awaited outcome from quality testing.
 
-== IMAGE GOES HERE ==
+![image](https://github.com/user-attachments/assets/4e342580-979a-43f2-814f-787f1d45cdfc)
 
 ## Public Story Map
 
