@@ -8,6 +8,6 @@ Itʼs called *vertical slicing* when you split stories by functional boundaries.
 
 Using StoriesOnBoard, you can use custom estimation units.
 
-Estimations are summarized release by release. You can also filter your ʻtoo bigʼ user stories by using the search&filter panel.
+Estimations are summarized release by release. You can also filter your ʻtoo bigʼ user stories by using the search & filter panel.
 
 ![image](https://github.com/user-attachments/assets/b7046911-cd4f-4cb4-bf2c-8efa3724c220)
