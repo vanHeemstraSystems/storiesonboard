@@ -1,6 +1,6 @@
-storiesonboard
+स्टोरीऑनबोर्ड
 
-# StoriesOnBoard
+# स्टोरीज़ऑनबोर्ड
 
 > ...
 
@@ -18,7 +18,7 @@ See [README.md](./200/README.md)
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
