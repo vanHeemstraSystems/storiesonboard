@@ -1,6 +1,6 @@
 船上故事
 
-# StoriesOnBoard
+# 船上故事
 
 > ...
 
@@ -16,7 +16,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 建立我們的應用程式
 
 看[README.md](./300/README.md)
 
