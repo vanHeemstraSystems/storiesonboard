@@ -1,3 +1,5 @@
+[![Translate README](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml/badge.svg)](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml)
+
 histoires à bord
 
 # Histoiresà bord
@@ -10,7 +12,7 @@ Basé sur le « Story Mapping Playbook » tel que contenu dans ce référentiel
 
 ## 100 - Introduction
 
-Voir[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Exigences
 
