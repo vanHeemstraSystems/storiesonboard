@@ -1,6 +1,6 @@
 स्टोरीऑनबोर्ड
 
-# स्टोरीज़ऑनबोर्ड
+# StoriesOnBoard
 
 > ...
 
@@ -22,4 +22,4 @@
 
 ## 400 - निष्कर्ष
 
-देखना[README.md](./400/README.md)
+See [README.md](./400/README.md)
