@@ -6,6 +6,9 @@ For example, if youʼre developing a webshop, a tech support team member could d
 
 If you want to avoid a ʻtoo many cooksʼ scenario, then organize silent brainstorming or a Crazy 8 exercise.
 
-## Exercise
+## 100 - Exercises
+
+See [README.MD](./100/README.md)
+
 - Let different people discuss the same everyday product
 - Discover product-related teammates at your company
