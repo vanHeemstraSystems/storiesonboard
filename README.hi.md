@@ -1,14 +1,14 @@
 [![Translate README](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml/badge.svg)](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml)
 
-स्टोरीऑनबोर्ड
+स्टोरीनबोर्ड
 
-# स्टोरीज़ऑनबोर्ड
+# स्टोरीनबोर्ड
 
 > ...
 
-"स्टोरीज़ऑनबोर्ड" पर आधारित<https://www.storiesonboard.com/>
+"स्टोरीनबोर्ड" पर आधारित है<https://www.storiesonboard.com/>
 
-इस भंडार में निहित "स्टोरी मैपिंग प्लेबुक" पर आधारित
+इस रिपॉजिटरी में निहित "स्टोरी मैपिंग प्लेबुक" पर आधारित
 
 ## 100 - परिचय
 
@@ -18,7 +18,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे एप्लिकेशन का निर्माण
+## 300 - हमारे आवेदन का निर्माण
 
 देखना[README.md](./300/README.md)
 
