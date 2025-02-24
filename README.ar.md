@@ -1,27 +1,27 @@
 [![Translate README](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml/badge.svg)](https://github.com/vanHeemstraSystems/storiesonboard/actions/workflows/readme.yml)
 
-com.storiesonboard
+قصص
 
-# StoriesOnBoard
+# قصص
 
 > ...
 
-استنادا إلى "StoriesOnBoard" في<https://www.storiesonboard.com/>
+بناءً على "القصص" في<https://www.storiesonboard.com/>
 
-استنادًا إلى "دليل تخطيط القصة" كما هو وارد في هذا المستودع
+استنادًا إلى "قصص خرائط القصة" كما هو موضح في هذا المستودع
 
-## 100- مقدمة
+## 100 - مقدمة
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - الخلاصة
 
 يرى[README.md](./400/README.md)
